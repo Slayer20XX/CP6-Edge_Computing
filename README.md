@@ -1,8 +1,6 @@
 # CP6-Edge_Computing
 
-# CP6-Edge-Computing-
-
-Nomes e RM:
+# Nomes e RM:
 Matheus Taylor/RM556211
 Henrique Maldonado/557270
 
