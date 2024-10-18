@@ -12,7 +12,7 @@ Com os problemas que o senhor Agnello está tendo em querer saber dos novos dado
 # Link do Wokwi do ESP-32 com o DHT e o LDR:
 https://wokwi.com/projects/411461035369515009
 
-# Link do Dasshboard utlizado:
+# Link do Dashboard utlizado:
 
 
 # O Link do Arquivo do Fiware (Fabio Carini):
