@@ -15,7 +15,7 @@ https://wokwi.com/projects/411461035369515009
 # Link do Dashboard utlizado:
 
 
-# O Link do Arquivo do Fiware (Fabio Carini):
+# Link do Arquivo do Fiware (Fabio Carini):
 https://github.com/fabiocabrini/fiware
 
 # Link do tutorial de instalação e de como utlizar (Arquivo PDF):
