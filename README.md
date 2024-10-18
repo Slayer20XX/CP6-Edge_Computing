@@ -20,5 +20,5 @@ https://github.com/fabiocabrini/fiware
 
 # Link do tutorial de instalação e de como utlizar (Arquivo PDF):
 
-# Tutorial do Professor Lucas pra instalar e criar o próprio servidor (pra quem quiser fazer):
-file:///C:/Users/labsfiap/Downloads/Tutorial%20de%20instala%C3%A7%C3%A3o%20do%20servidor%20IoT%20Linux%20Fiware%20-%20atualizado.pdf
+# Tutorial do Professor Lucas de Edge Computing pra instalar e criar o próprio servidor de IoT (pra quem quiser fazer):
+https://drive.google.com/file/d/1ge2GRPScfQrscZBIPQuXtnu1metgaQyW/view?usp=sharing
