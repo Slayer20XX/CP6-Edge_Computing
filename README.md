@@ -13,7 +13,7 @@ Com os problemas que o senhor Agnello está tendo em querer saber dos novos dado
 https://wokwi.com/projects/411461035369515009
 
 # Link do Dashboard utlizado:
-
+http://localhost:1880/#flow/211fa21d4f5ae5d5
 
 # Link do Arquivo do Fiware (Fabio Carini):
 https://github.com/fabiocabrini/fiware
