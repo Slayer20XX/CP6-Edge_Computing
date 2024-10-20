@@ -19,6 +19,7 @@ http://localhost:1880/#flow/211fa21d4f5ae5d5
 https://github.com/fabiocabrini/fiware
 
 # Link do tutorial de replicação do projeto (Google Docs):
+https://docs.google.com/document/d/1fyIWCAkIn-dl82NAtI8L0nEMmRaAiYys0JYagsY4_mc/edit?usp=sharing
 
 # Tutorial do Professor Lucas de Edge Computing pra instalar e criar o próprio servidor de IoT (pra quem quiser fazer):
 https://drive.google.com/file/d/1ge2GRPScfQrscZBIPQuXtnu1metgaQyW/view?usp=sharing
